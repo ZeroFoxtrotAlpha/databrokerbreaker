@@ -2,7 +2,7 @@
 privacy is cringe
 
 
-basily it creates a unicode identity thats invisibleish that you assign with a basic unicode letter (english layout working rn), then you can use the generated word that has a binary missmatch to the typed input to identify your assigned letter. so if billy decides to copy paste that jazz it into something or sells your essay and it shows up as a w and thats what you assigned you, can positivly id your intelectual property or private info as snached and trace the leak
+basily it creates a unicode identity thats invisibleish that you assign with a basic unicode letter (english layout working rn), then you can use the generated word that has a binary missmatch to the typed input to identify your assigned letter. so if billy decides to copy paste that jazz it into something or sells your essay and it shows up as a w and thats what you assigned, the you can positivly id your intelectual property or private info as snached and trace the leak
 
 
 
